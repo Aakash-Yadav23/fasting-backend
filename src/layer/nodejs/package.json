@@ -1,0 +1,12 @@
+{
+  "name": "fasting-tracker-layer",
+  "version": "1.0.0",
+  "description": "Shared dependencies for Fasting Tracker Lambda functions",
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.450.0",
+    "@aws-sdk/client-dynamodb": "^3.450.0",
+    "@aws-sdk/lib-dynamodb": "^3.450.0",
+    "zod": "^3.22.2",
+    "uuid": "^9.0.1"
+  }
+} 
